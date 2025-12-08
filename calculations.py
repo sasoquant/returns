@@ -1,5 +1,5 @@
-def price_change(p0, p1):
-    return p1 - p0
+def price_change(start_price, end_price):
+    return end_price - start_price
 
 
 def return_value(start_price, end_price):
